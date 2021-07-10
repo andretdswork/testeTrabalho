@@ -4,10 +4,6 @@ window.onload = () => Procedimentos()
     function Procedimentos() {
         listaProcedimentos = []
         procedimentosSelecionados = []
-        controleProcedimentosSelecionados = {
-            header: '',
-            details: []            
-        }
 
         function constructor() {            
             InicializarLista()
