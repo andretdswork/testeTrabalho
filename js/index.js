@@ -91,6 +91,5 @@ window.onload = () => Procedimentos()
             }            
             tbody.innerHTML = innerHTML
         }
-
         constructor()
     }    
