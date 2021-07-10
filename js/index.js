@@ -50,7 +50,7 @@ window.onload = () => Procedimentos()
             content.innerHTML = PrepararConteudoProcedimento(content)
             procedimentosSelecionados = []
             PopularTabela()     
-            CarregarEventos()       
+            CarregarEventos()
         }
 
         function PrepararConteudoProcedimento(content){            
